@@ -35,9 +35,9 @@ you can manually download the provided images that will be squashfs and dwarfs w
 	<div align="center">
 https://sourceforge.net/projects/claudemods/files/App-Backend/claudemods-custombottle/
 		<div align="center">
-squashfs download 612mb 
+"uploading" squashfs download 612mb 
 		<div align="center">
-dwarfs download 482mb
+"uploading" dwarfs download 482mb
 			<div align="center">
 
 
