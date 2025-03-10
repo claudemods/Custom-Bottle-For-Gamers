@@ -22,7 +22,7 @@
 
 
 <div align="center">
-this will contain a script and gui to install a custom premade bottle for bottles 
+this will contain a gui to install a custom premade bottle for bottles 
 
  <div align="center">
 saving you time and headache by getting you up and running faster
@@ -31,13 +31,19 @@ saving you time and headache by getting you up and running faster
 note this will be primarly tested on a amd apu/gpu but it should also work on intel  
 
 <div align="center">
-you can manually download the provided images that will be squashfs and dwarfs with this link
+you can manually download the provided images that will be squashfs and dwarfs with these links
+	<div align="center">
+		sourceforge link
 	<div align="center">
 https://sourceforge.net/projects/claudemods/files/App-Backend/claudemods-custombottle/
+<div align="center">
+	google link
 		<div align="center">
-"uploading" squashfs download 612mb 
+  https://drive.google.com/drive/folders/1y0Zc10DNthscQ51dqWH7njmzCebZ79Rm
 		<div align="center">
-"uploading" dwarfs download 482mb
+squashfs download 612mb 
+		<div align="center">
+dwarfs download 482mb
 			<div align="center">
 
 
