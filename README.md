@@ -22,7 +22,10 @@
 
 
 <div align="center">
-this will contain a script and gui to install a custom premade bottle for bottles saving you time and headache by getting you up and running faster
+this will contain a script and gui to install a custom premade bottle for bottles 
+
+ <div align="center">
+saving you time and headache by getting you up and running faster
 
 <div align="center">
 note this will be primarly tested on a amd apu/gpu but it should also work on intel  
