@@ -31,3 +31,11 @@ saving you time and headache by getting you up and running faster
 note this will be primarly tested on a amd apu/gpu but it should also work on intel  
 
 
+you can manually download the provided images that will be squashfs and dwarf with this link
+squashfs download 500mb 
+dwarfs download 460mb
+https://sourceforge.net/projects/claudemods/files/App-Backend/claudemods-custombottle/
+
+
+
+
