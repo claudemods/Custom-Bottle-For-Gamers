@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.png</file>
+        <file>GamingBottle.squashfs</file>
+        <file>GamingBottle.dwarfs</file>
+    </qresource>
+</RCC>
