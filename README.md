@@ -22,8 +22,11 @@
 
 
 <div align="center">
-this will contain a gui to install a custom premade bottle for bottles 
-
+qt6 application to install a custom bottle for gaming dwarfs feature may be broken use the squashfs method for now
+	 <div align="center">
+	please install squashfs-tools from arch repo or what every the package for squashfs is on your distro
+		 <div align="center">
+			 the .bin provided is for arch if you wish to use on another distro please download the compile dependecies and compile for your distro
  <div align="center">
 saving you time and headache by getting you up and running faster
 
@@ -47,5 +50,8 @@ dwarfs download 482mb
 			<div align="center">
 
 
+
+
+![2025-03-17-010718_hyprshot](https://github.com/user-attachments/assets/9d0fff4e-39fe-49c6-a4a5-8ac076505142)
 
 
