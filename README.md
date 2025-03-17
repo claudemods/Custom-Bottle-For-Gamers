@@ -53,5 +53,19 @@ dwarfs download 482mb
 
 
 ![2025-03-17-010718_hyprshot](https://github.com/user-attachments/assets/9d0fff4e-39fe-49c6-a4a5-8ac076505142)
+<div align="center">
+installed dependencies 
+
+![2025-03-17-011433_hyprshot](https://github.com/user-attachments/assets/b44c1c2b-aef5-4d10-8011-3cce9bfdfd72)
+![2025-03-17-011517_hyprshot](https://github.com/user-attachments/assets/7edf4704-60ec-41b0-8c39-38b19a57337e)
+![2025-03-17-011539_hyprshot](https://github.com/user-attachments/assets/038e44a8-55df-41f5-9995-4982c49ba660)
+![2025-03-17-011556_hyprshot](https://github.com/user-attachments/assets/ede88d96-e6e2-4e67-bc36-04fa309b3c20)
+![2025-03-17-011607_hyprshot](https://github.com/user-attachments/assets/af6e876f-ff0b-4597-a1f7-4961f446d76f)
+
+
+
+
+
+
 
 
